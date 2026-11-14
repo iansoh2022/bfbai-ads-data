@@ -1,91 +1,64 @@
 {
- "date": "2026-11-13",
- "source": "BFBAI daily report 2026-11-13 (auto-published)",
+ "date": "2026-11-14",
+ "source": "BFBAI daily report 2026-11-14 (auto-published)",
  "cards": [
   {
-   "matchId": "5583001",
-   "home": "新加坡",
-   "away": "巴拉圭",
-   "league": "国际友谊",
-   "kickoffHKT": "2026-11-13 20:00 HKT",
-   "direction": "平局",
-   "goalsRange": "0-2",
-   "strength": "Weak",
-   "reason": "看平局，进球预期偏低。",
-   "reasonEn": "Leaning draw with a low total-goals expectation.",
-   "material": {}
-  },
-  {
-   "matchId": "5583002",
-   "home": "摩尔多瓦",
-   "away": "哈萨克",
-   "league": "欧国联",
-   "kickoffHKT": "2026-11-14 01:00 HKT",
-   "direction": "主胜",
-   "goalsRange": "0-2",
-   "strength": "Weak",
-   "reason": "看主胜，进球预期偏低。",
-   "reasonEn": "Leaning home win with a low total-goals expectation.",
-   "material": {}
-  },
-  {
-   "matchId": "5583003",
-   "home": "保加利亚",
-   "away": "冰岛",
-   "league": "欧国联",
-   "kickoffHKT": "2026-11-14 03:45 HKT",
+   "matchId": "5584001",
+   "home": "湘南海洋",
+   "away": "横滨FC",
+   "league": "日职乙",
+   "kickoffHKT": "2026-11-14 13:00 HKT",
    "direction": "客胜",
    "goalsRange": "0-2",
    "strength": "Weak",
-   "reason": "看客胜，进球预期偏低。",
-   "reasonEn": "Leaning away win with a low total-goals expectation.",
-   "material": {}
+   "leagueEn": "J2 League",
+   "reason": "看客胜，进球预期偏低。该联赛场均总进球 2.54 球。",
+   "reasonEn": "leaning away win with a low total-goals expectation. League average total goals: 2.54 per match.",
+   "material": {
+    "leagueEnv": {
+     "avg_total_goals": 2.54,
+     "draw_pct": 23.8
+    }
+   }
   },
   {
-   "matchId": "5583004",
-   "home": "苏格兰",
-   "away": "北马其顿",
-   "league": "欧国联",
-   "kickoffHKT": "2026-11-14 03:45 HKT",
-   "direction": "平局",
+   "matchId": "5584002",
+   "home": "大宫松鼠",
+   "away": "山形山神",
+   "league": "日职乙",
+   "kickoffHKT": "2026-11-14 13:00 HKT",
+   "direction": "主胜",
    "goalsRange": "0-2",
    "strength": "Strong",
-   "reason": "Strong 评级，看平局，进球预期偏低。",
-   "reasonEn": "Strong-rated pick leaning draw with a low total-goals expectation.",
-   "material": {}
+   "leagueEn": "J2 League",
+   "reason": "Strong 评级，看主胜，进球预期偏低。该联赛场均总进球 2.54 球。",
+   "reasonEn": "Strong-rated pick leaning home win with a low total-goals expectation. League average total goals: 2.54 per match.",
+   "material": {
+    "leagueEnv": {
+     "avg_total_goals": 2.54,
+     "draw_pct": 23.8
+    }
+   }
   },
   {
-   "matchId": "5583005",
-   "home": "塞尔维亚",
-   "away": "德国",
-   "league": "欧国联",
-   "kickoffHKT": "2026-11-14 03:45 HKT",
+   "matchId": "5584003",
+   "home": "日本",
+   "away": "巴西",
+   "league": "国际友谊",
+   "kickoffHKT": "2026-11-14 18:15 HKT",
    "direction": "客胜",
    "goalsRange": "0-2",
    "strength": "Weak",
    "reason": "看客胜，进球预期偏低。",
-   "reasonEn": "Leaning away win with a low total-goals expectation.",
+   "reasonEn": "leaning away win with a low total-goals expectation.",
    "material": {}
   },
   {
-   "matchId": "5583006",
-   "home": "卢森堡",
-   "away": "爱沙尼亚",
-   "league": "欧国联",
-   "kickoffHKT": "2026-11-14 03:45 HKT",
-   "direction": "主胜",
-   "goalsRange": "2-4",
-   "strength": "Weak",
-   "reason": "看主胜，进球预期中等。",
-   "reasonEn": "Leaning home win with a medium total-goals expectation.",
-   "material": {}
-  },
-  {
-   "matchId": "5583007",
-   "home": "斯洛伐克",
-   "away": "法罗群岛",
-   "league": "欧国联",
-   "kickoffHKT": "2026-11-14 03:45 HKT",
+   "matchId": "5584004",
+   "home": "中国",
+   "away": "马来西亚",
+   "league": "国际友谊",
+   "kickoffHKT": "2026-11-14 20:00 HKT",
    "direction": "主胜",
    "goalsRange": "0-2",
    "strength": "Strong",
@@ -94,55 +67,185 @@
    "material": {}
   },
   {
-   "matchId": "5583008",
-   "home": "斯洛文尼",
-   "away": "瑞士",
-   "league": "欧国联",
-   "kickoffHKT": "2026-11-14 03:45 HKT",
-   "direction": "客胜",
+   "matchId": "5584005",
+   "home": "布雷达",
+   "away": "埃门",
+   "league": "荷乙",
+   "kickoffHKT": "2026-11-14 23:30 HKT",
+   "direction": "主胜",
    "goalsRange": "0-2",
-   "strength": "Weak",
-   "reason": "看客胜，进球预期偏低。",
-   "reasonEn": "Leaning away win with a low total-goals expectation.",
-   "material": {}
+   "strength": "Strong",
+   "leagueEn": "Eerste Divisie",
+   "reason": "Strong 评级，看主胜，进球预期偏低。该联赛场均总进球 3.54 球。",
+   "reasonEn": "Strong-rated pick leaning home win with a low total-goals expectation. League average total goals: 3.54 per match.",
+   "material": {
+    "leagueEnv": {
+     "avg_total_goals": 3.54,
+     "btts_pct": 70
+    }
+   }
   },
   {
-   "matchId": "5583009",
-   "home": "荷兰",
-   "away": "希腊",
+   "matchId": "5584006",
+   "home": "格鲁吉亚",
+   "away": "匈牙利",
    "league": "欧国联",
-   "kickoffHKT": "2026-11-14 03:45 HKT",
+   "kickoffHKT": "2026-11-15 01:00 HKT",
    "direction": "主胜",
    "goalsRange": "5+",
-   "strength": "Strong",
-   "reason": "Strong 评级，看主胜，进球预期偏高。",
-   "reasonEn": "Strong-rated pick leaning home win with a high total-goals expectation.",
+   "strength": "Weak",
+   "reason": "看主胜，进球预期偏高。",
+   "reasonEn": "leaning home win with a high total-goals expectation.",
    "material": {}
   },
   {
-   "matchId": "5583010",
-   "home": "阿根廷",
-   "away": "乌拉圭",
-   "league": "国际友谊",
-   "kickoffHKT": "2026-11-14 07:00 HKT",
-   "direction": "平局",
-   "goalsRange": "0-2",
-   "strength": "Strong",
-   "reason": "Strong 评级，看平局，进球预期偏低。",
-   "reasonEn": "Strong-rated pick leaning draw with a low total-goals expectation.",
-   "material": {}
-  },
-  {
-   "matchId": "5583011",
-   "home": "哥伦比亚",
-   "away": "智利",
-   "league": "国际友谊",
-   "kickoffHKT": "2026-11-14 08:00 HKT",
+   "matchId": "5584007",
+   "home": "挪威",
+   "away": "威尔士",
+   "league": "欧国联",
+   "kickoffHKT": "2026-11-15 01:00 HKT",
    "direction": "主胜",
    "goalsRange": "0-2",
    "strength": "Strong",
    "reason": "Strong 评级，看主胜，进球预期偏低。",
    "reasonEn": "Strong-rated pick leaning home win with a low total-goals expectation.",
+   "material": {}
+  },
+  {
+   "matchId": "5584008",
+   "home": "罗达JC",
+   "away": "福伦丹",
+   "league": "荷乙",
+   "kickoffHKT": "2026-11-15 03:00 HKT",
+   "direction": "主胜",
+   "goalsRange": "0-2",
+   "strength": "Weak",
+   "leagueEn": "Eerste Divisie",
+   "reason": "看主胜，进球预期偏低。该联赛场均总进球 3.54 球。",
+   "reasonEn": "leaning home win with a low total-goals expectation. League average total goals: 3.54 per match.",
+   "material": {
+    "leagueEnv": {
+     "avg_total_goals": 3.54,
+     "btts_pct": 70
+    }
+   }
+  },
+  {
+   "matchId": "5584009",
+   "home": "瓦尔韦克",
+   "away": "登博思",
+   "league": "荷乙",
+   "kickoffHKT": "2026-11-15 03:00 HKT",
+   "direction": "主胜",
+   "goalsRange": "0-2",
+   "strength": "Weak",
+   "leagueEn": "Eerste Divisie",
+   "reason": "看主胜，进球预期偏低。该联赛场均总进球 3.54 球。",
+   "reasonEn": "leaning home win with a low total-goals expectation. League average total goals: 3.54 per match.",
+   "material": {
+    "leagueEnv": {
+     "avg_total_goals": 3.54,
+     "btts_pct": 70
+    }
+   }
+  },
+  {
+   "matchId": "5584010",
+   "home": "阿尔梅勒",
+   "away": "海尔蒙特",
+   "league": "荷乙",
+   "kickoffHKT": "2026-11-15 03:00 HKT",
+   "direction": "主胜",
+   "goalsRange": "0-2",
+   "strength": "Strong",
+   "leagueEn": "Eerste Divisie",
+   "reason": "Strong 评级，看主胜，进球预期偏低。该联赛场均总进球 3.54 球。",
+   "reasonEn": "Strong-rated pick leaning home win with a low total-goals expectation. League average total goals: 3.54 per match.",
+   "material": {
+    "leagueEnv": {
+     "avg_total_goals": 3.54,
+     "btts_pct": 70
+    }
+   }
+  },
+  {
+   "matchId": "5584011",
+   "home": "奥地利",
+   "away": "爱尔兰",
+   "league": "欧国联",
+   "kickoffHKT": "2026-11-15 03:45 HKT",
+   "direction": "主胜",
+   "goalsRange": "0-2",
+   "strength": "Strong",
+   "reason": "Strong 评级，看主胜，进球预期偏低。",
+   "reasonEn": "Strong-rated pick leaning home win with a low total-goals expectation.",
+   "material": {}
+  },
+  {
+   "matchId": "5584012",
+   "home": "瑞典",
+   "away": "波黑",
+   "league": "欧国联",
+   "kickoffHKT": "2026-11-15 03:45 HKT",
+   "direction": "主胜",
+   "goalsRange": "0-2",
+   "strength": "Strong",
+   "reason": "Strong 评级，看主胜，进球预期偏低。",
+   "reasonEn": "Strong-rated pick leaning home win with a low total-goals expectation.",
+   "material": {}
+  },
+  {
+   "matchId": "5584013",
+   "home": "罗马尼亚",
+   "away": "波兰",
+   "league": "欧国联",
+   "kickoffHKT": "2026-11-15 03:45 HKT",
+   "direction": "客胜",
+   "goalsRange": "0-2",
+   "strength": "Weak",
+   "reason": "看客胜，进球预期偏低。",
+   "reasonEn": "leaning away win with a low total-goals expectation.",
+   "material": {}
+  },
+  {
+   "matchId": "5584014",
+   "home": "葡萄牙",
+   "away": "丹麦",
+   "league": "欧国联",
+   "kickoffHKT": "2026-11-15 03:45 HKT",
+   "direction": "主胜",
+   "goalsRange": "0-2",
+   "strength": "Strong",
+   "reason": "Strong 评级，看主胜，进球预期偏低。",
+   "reasonEn": "Strong-rated pick leaning home win with a low total-goals expectation.",
+   "material": {}
+  },
+  {
+   "matchId": "5584015",
+   "home": "米拉索尔",
+   "away": "米竞技",
+   "league": "巴西甲",
+   "kickoffHKT": "2026-11-15 05:30 HKT",
+   "direction": "主胜",
+   "goalsRange": "0-2",
+   "strength": "Weak",
+   "leagueEn": "Brasileirão Série A",
+   "reason": "看主胜，进球预期偏低。",
+   "reasonEn": "leaning home win with a low total-goals expectation.",
+   "material": {}
+  },
+  {
+   "matchId": "5584016",
+   "home": "沙佩科",
+   "away": "达伽马",
+   "league": "巴西甲",
+   "kickoffHKT": "2026-11-15 07:30 HKT",
+   "direction": "客胜",
+   "goalsRange": "5+",
+   "strength": "Weak",
+   "leagueEn": "Brasileirão Série A",
+   "reason": "看客胜，进球预期偏高。",
+   "reasonEn": "leaning away win with a high total-goals expectation.",
    "material": {}
   }
  ]
